@@ -1,0 +1,5 @@
+run_id;task;note;files_read;input_size_bytes;shuffle_read_bytes;shuffle_write_bytes;timestamp
+r1;topN_rdd;Calcul RDD (Stages 9-15);N/A;180.1 KiB;~ 2.3 KiB;1438 B;12:06:13
+r1;topN_df;Query 4/5 (Cache);0;0 B (Lu du Cache);2.9 KiB;2.9 KiB;12:06:18
+r1;projection_all_cols;Query 0;1;84.8 KiB;0 B;0 B;12:06:01
+r1;projection_min_cols;Query 1;1;105.9 KiB;0 B;0 B;12:06:04
